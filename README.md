@@ -2,7 +2,7 @@
 
 
 🎟️ Smart Event Management System — MySQL
-A complete MySQL 8.0+ SQL project for managing events, venues, organizers, attendees, ticket bookings, payments, and event reports.
+A complete SQL project for managing events, venues, organizers, attendees, ticket bookings, payments, and event reports.
 
 This project is designed to fulfill the requirements of the Smart Event Management System assignment, including:
 
